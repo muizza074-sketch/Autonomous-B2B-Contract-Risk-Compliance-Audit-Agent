@@ -1,0 +1,6 @@
+{
+  "name": "ContractGuardian - AI LegalTech Risk & Clause Intelligence",
+  "description": "Enterprise legal risk assessment, automated clause classification, interactive contract edge-case interrogation, and redline negotiation export for procurement teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
